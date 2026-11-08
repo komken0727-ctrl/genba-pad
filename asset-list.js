@@ -1,5 +1,5 @@
 // 自動生成: node tools/build-locked.mjs
-self.ASSET_VERSION="pad-071b9c9685aa";
+self.ASSET_VERSION="pad-01ee38d9fef8";
 self.ASSETS=["./index.html",
 "./manifest.webmanifest",
 "./icons/apple-touch-icon.png",
@@ -190,4 +190,7 @@ self.ASSETS=["./index.html",
 "./vendor/pdfjs/standard_fonts/LiberationSans-Bold.ttf",
 "./vendor/pdfjs/standard_fonts/LiberationSans-BoldItalic.ttf",
 "./vendor/pdfjs/standard_fonts/LiberationSans-Italic.ttf",
-"./vendor/pdfjs/standard_fonts/LiberationSans-Regular.ttf"];
+"./vendor/pdfjs/standard_fonts/LiberationSans-Regular.ttf",
+"./img/note-blank.png",
+"./img/note-grid.png",
+"./img/note-lines.png"];
