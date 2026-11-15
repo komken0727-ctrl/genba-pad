@@ -1,5 +1,5 @@
 // 自動生成: node tools/build-locked.mjs
-self.ASSET_VERSION="pad-ff2098f4cc45";
+self.ASSET_VERSION="pad-fd0c3bc67373";
 self.ASSETS=["./index.html",
 "./manifest.webmanifest",
 "./icons/apple-touch-icon.png",
